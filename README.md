@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Elevate Your Space with Premium Curtains</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
@@ -96,10 +96,10 @@
 </head>
 <body>
     <header>
-        <h1>Elevate Your Space with Premium Curtains</h1>
+ <h1>Elevate Your Space with Premium Curtains</h1>
     </header>
     <div class="container">
-        <p>When it comes to home decor, curtains are often the unsung heroes that can transform a space, providing both functionality and style. At Curtains Shop Dubai, you can explore a diverse range of curtains tailored to meet your specific needs, whether you're looking to enhance privacy, control light, or simply elevate your room’s aesthetics. Here’s a closer look at the different types of curtains you can find and how they can benefit your living or working environment.</p>
+ <p>When it comes to home decor, curtains are often the unsung heroes that can transform a space, providing both functionality and style. At Curtains Shop Dubai, you can explore a diverse range of curtains tailored to meet your specific needs, whether you're looking to enhance privacy, control light, or simply elevate your room’s aesthetics. Here’s a closer look at the different types of curtains you can find and how they can benefit your living or working environment.</p>
         <h2>Blackout Curtains: Ultimate Light Control</h2>
         <img src="https://via.placeholder.com/800x400.png?text=Blackout+Curtains" alt="Blackout Curtains" class="curtain-image">
         <p>Blackout curtains are an excellent choice for bedrooms or media rooms where light control is essential. These curtains are designed with a special lining that blocks out sunlight, ensuring a dark environment for restful sleep or movie nights. Not only do they provide privacy, but they also help to regulate indoor temperatures, making them a practical addition to any home.</p>
